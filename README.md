@@ -15,13 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# TOOLS
+### TOOLS
 Adobe XD, In Design, Photoshop, Illustrator, Dreamweaver, Xcode, Visual Studio Code<br>
 
-# LANGUAGES
+### LANGUAGES
 HTML5, CSS3, SWIFT<br>
-
-# FOLLOW ME
-LINKEDIN [![Dorothee's Linkedin](https://www.linkedin.com/in/doe-dupont-croquet-31646916/)]
 
 [![Ponyo-Sosuke's github stats](https://github-readme-stats.vercel.app/api?username=ponyo-sosuke)](https://github.com/anuraghazra/github-readme-stats)
