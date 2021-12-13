@@ -5,20 +5,20 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ... UI UX design, dev
+- 🔭 I’m currently working on ... UI UX design
+- 🌱 I’m currently learning ... development (front-end)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: ... wellness
+- ⚡ Fun fact: ... 
 -->
 
-### TOOLS
+#### TOOLS
 Adobe XD, In Design, Photoshop, Illustrator, Dreamweaver, Xcode, Visual Studio Code<br>
 
-### LANGUAGES
+#### LANGUAGES
 HTML5, CSS3, SWIFT<br>
 
 [![Ponyo-Sosuke's github stats](https://github-readme-stats.vercel.app/api?username=ponyo-sosuke)](https://github.com/anuraghazra/github-readme-stats)
