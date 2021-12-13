@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... UI UX design
-- 🌱 I’m currently learning ... development (front-end)
+- 🔭 I’m currently working on UI UX design
+- 🌱 I’m currently learning development (front-end)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 #### TOOLS
-Adobe XD, In Design, Photoshop, Illustrator, Dreamweaver, Xcode, Visual Studio Code<br>
+Adobe XD, In Design, Photoshop, Illustrator, Dreamweaver, Xcode, Visual Studio Code, Trello<br>
 
 #### LANGUAGES
 HTML5, CSS3, SWIFT<br>
