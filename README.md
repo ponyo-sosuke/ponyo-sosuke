@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# TOOLS
+Adobe XD, In Design, Photoshop, Illustrator, Dreamweaver, Xcode, Visual Studio Code
+
+# LANGUAGES
+HTML5, CSS3, SWIFT
+
+[![Ponyo-Sosuke's github stats](https://github-readme-stats.vercel.app/api?username=ponyo-sosuke)](https://github.com/anuraghazra/github-readme-stats)
