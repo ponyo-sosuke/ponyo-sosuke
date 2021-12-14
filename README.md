@@ -21,6 +21,7 @@ Adobe XD, In Design, Photoshop, Illustrator, Dreamweaver, Xcode, Visual Studio C
 #### LANGUAGES
 HTML5, CSS3, SWIFT<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ponyo-sosuke&layout=compact&theme=yablue)](https://github.com/ponyo-sosuke)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ponyo-sosuke&layout=compact&theme=radical)](https://github.com/ponyo-sosuke)
+
 <!-- [![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=raphaellebas&repo=portfolio&theme=radical)](https://github.com/raphaellebas/portfolio) -->
 `![ponyo-sosuke's Github stats](https://github-readme-stats.vercel.app/api?username=ponyo-sosuke&show_icons=true&theme=yablue)
