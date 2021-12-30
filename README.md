@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 #### TOOLS
-Adobe XD, In Design, Photoshop, Illustrator, Dreamweaver, Xcode, Visual Studio Code, Trello<br>
+Figma, Adobe XD, In Design, Photoshop, Illustrator, Dreamweaver, Xcode, Visual Studio Code, Trello<br>
 
 #### LANGUAGES
 HTML5, CSS3, SWIFT<br>
