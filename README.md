@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 Figma, Adobe XD, In Design, Photoshop, Illustrator, Dreamweaver, Xcode, Visual Studio Code, Trello<br>
 
 #### LANGUAGES
-HTML5, CSS3, SWIFT<br>
+HTML5, CSS3, Swift<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ponyo-sosuke&layout=compact&theme=yeblu)](https://github.com/ponyo-sosuke)
 
