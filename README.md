@@ -20,6 +20,7 @@ Figma, Miro, Adobe XD, <br>In Design, Photoshop, Illustrator, Dreamweaver, <br>X
 
 #### LANGUAGES
 HTML5, CSS3, Swift<br>
+learning Sass
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ponyo-sosuke&layout=compact&theme=yeblu)](https://github.com/ponyo-sosuke)
 
