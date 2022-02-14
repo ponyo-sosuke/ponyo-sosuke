@@ -24,5 +24,5 @@ learning Sass
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ponyo-sosuke&layout=compact&theme=yeblu)](https://github.com/ponyo-sosuke)
 
-<!-- [![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=ponyo-sosuke&repo=portfolio&theme=yeblu)](https://github.com/ponyo-sosuke/portfolio) -->
+<!-- [![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=ponyo-sosuke&theme=yeblu)](https://github.com/ponyo-sosuke/) -->
 `![ponyo-sosuke's Github stats](https://github-readme-stats.vercel.app/api?username=ponyo-sosuke&show_icons=true&theme=yeblu)
