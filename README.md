@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 #### TOOLS
-Figma, Miro, Adobe XD, <br>In Design, Photoshop, Illustrator, Dreamweaver, <br>Xcode, Visual Studio Code, Git Graph, Trello<br>
+Figma, Miro, Adobe XD, <br>In Design, Photoshop, Illustrator, Dreamweaver, <br>Xcode, Tailwindcss, Visual Studio Code, Git Graph, Trello<br>
 
 #### LANGUAGES
 HTML5, CSS3, Swift<br>
