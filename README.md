@@ -24,6 +24,8 @@ learning Sass, JavaScript...
 
 #### CODEPENio / (https://codepen.io/ponyo-sosuke)
 
+<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ponyo-sosuke&layout=compact&theme=yeblu)](https://github.com/ponyo-sosuke)
 
 <!-- [![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=ponyo-sosuke&theme=yeblu)](https://github.com/ponyo-sosuke/) -->
