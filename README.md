@@ -20,7 +20,9 @@ Figma, Miro, Adobe XD, <br>In Design, Photoshop, Illustrator, Dreamweaver, <br>X
 
 #### LANGUAGES
 HTML5, CSS3, Swift<br>
-learning Sass, JavaScript... Babel, React.
+
+#### LEARNING
+Sass, JavaScript... Babel, React.
 
 #### CODEPENio / (https://codepen.io/ponyo-sosuke)
 #### FREECODECAMP en cours / (https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/understanding-uninitialized-variables)
