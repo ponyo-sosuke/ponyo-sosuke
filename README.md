@@ -14,15 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... wellness
 - ⚡ Fun fact: ... 
 -->
-
+### I am Ponyo-Sosuke (Doe DC)<br>
+<br>
 #### TOOLS
 Figma, Miro, Adobe XD, <br>In Design, Photoshop, Illustrator, Dreamweaver, <br>Xcode, Tailwindcss, Visual Studio Code, Git Graph, Trello<br>
+<br>
 ----
 #### LANGUAGES
 HTML5, CSS3, Swift<br>
+<br>
 ----
 #### LEARNING
-Sass, JavaScript... React.
+Sass, JavaScript... React.<br>
+<br>
 ----
 #### CODEPENio / (https://codepen.io/ponyo-sosuke)
 #### FREECODECAMP en cours / (https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/understanding-uninitialized-variables)
