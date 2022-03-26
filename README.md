@@ -18,12 +18,10 @@ Here are some ideas to get you started:
 <br>
 #### TOOLS
 Figma, Miro, Adobe XD, <br>In Design, Photoshop, Illustrator, Dreamweaver, <br>Xcode, Tailwindcss, Visual Studio Code, Git Graph, Trello<br>
-<br>
- 
+<br> 
 #### LANGUAGES
 HTML5, CSS3, Swift<br>
 <br>
- 
 #### LEARNING
 Sass, JavaScript... React.<br>
 <br>
