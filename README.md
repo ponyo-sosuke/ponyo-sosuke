@@ -17,17 +17,17 @@ Here are some ideas to get you started:
 
 #### TOOLS
 Figma, Miro, Adobe XD, <br>In Design, Photoshop, Illustrator, Dreamweaver, <br>Xcode, Tailwindcss, Visual Studio Code, Git Graph, Trello<br>
-<hr>
+----
 #### LANGUAGES
 HTML5, CSS3, Swift<br>
-<hr>
+----
 #### LEARNING
 Sass, JavaScript... React.
-<hr>
+----
 #### CODEPENio / (https://codepen.io/ponyo-sosuke)
 #### FREECODECAMP en cours / (https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/understanding-uninitialized-variables)
 
-
+<br>
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ponyo-sosuke&layout=compact&theme=yeblu)](https://github.com/ponyo-sosuke)
